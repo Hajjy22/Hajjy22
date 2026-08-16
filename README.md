@@ -1,71 +1,43 @@
-<div align="center">
+## Hi, I'm Ismail 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ismail+%F0%9F%91%8B;Embedded+Systems+%26+IoT+Engineer;ASIC+%2F+FPGA+Design+Engineer;Building+RISC-V+Cores+%26+CNN+Accelerators" alt="Typing SVG" />
+Embedded systems and ASIC/FPGA engineer based in Rabat, Morocco. I work on
+digital hardware design and the firmware that runs on it.
 
-<br>
+- Embedded Systems Engineering, INPT (2025)
+- Previously at Siemens EDA, working on low-power ASIC design
+- Winner, Orange Summer Challenge 2024
+- Currently building RISC-V cores and hardware accelerators
 
-**Embedded Systems · IoT · ASIC / FPGA** &nbsp;·&nbsp; INPT Graduate 2025 &nbsp;·&nbsp; Rabat, Morocco 🇲🇦
+[LinkedIn](https://www.linkedin.com/in/ismail-hajjy) ·
+[Email](mailto:ismailhajjy02@gmail.com) ·
+[Upwork](https://www.upwork.com/freelancers/~01e1c070f92e69e674)
 
-<a href="https://www.linkedin.com/in/ismail-hajjy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:ismailhajjy02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.upwork.com/freelancers/~01e1c070f92e69e674"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"></a>
+### Skills
 
-</div>
+**Hardware** — SystemVerilog, Verilog, VHDL, UVM, Vivado, Quartus
+**Embedded** — C, C++, Python, STM32, ESP32, FreeRTOS
+**Protocols** — I2C, SPI, UART, AXI, Avalon, MQTT
 
-<br>
+### Projects
 
-## 👨‍💻 About
+**[AtlasRV32](https://github.com/Hajjy22/AtlasRV-32-bit-RISC-V-Pipelined-Processor)**
+32-bit RISC-V processor with a 5-stage pipeline, hazard detection and forwarding.
+Implemented on an Artix-7 FPGA.
 
-- 🎓 Embedded Systems Engineer, graduated from **INPT** (2025)
-- 🔬 Previously at **Siemens EDA** — low-power ASIC design
-- 🏆 **Orange Summer Challenge 2024** winner
-- ⚡ Working across the stack: embedded firmware, IoT connectivity, and custom digital hardware (RISC-V cores, CNN accelerators, IP)
+**CNN Accelerator**
+Convolution engine for 1024×1024 inputs, taken through the ASIC flow at 206 MHz
+(4.85 ns clock).
 
-## 🛠️ Tech Stack
+**SPEF Profiler**
+Low-power analysis tool built during my time at Siemens EDA.
 
-<div align="center">
+**I2C Master IP**
+Avalon-mapped I2C controller for Nios II, verified to over 90% functional coverage.
 
-**Hardware / RTL**
+### GitHub
 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-2EA3F2?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-2EA3F2?style=flat-square)
-![VHDL](https://img.shields.io/badge/VHDL-2EA3F2?style=flat-square)
-![UVM](https://img.shields.io/badge/UVM-2EA3F2?style=flat-square)
-![Vivado](https://img.shields.io/badge/Vivado-grey?style=flat-square)
-![Quartus](https://img.shields.io/badge/Quartus-grey?style=flat-square)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Hajjy22&show_icons=true&theme=tokyonight&hide_border=true" />
 
-**Embedded / IoT**
+---
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-grey?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</div>
-
-## 🚀 Featured Work
-
-| Project | Highlights |
-|---|---|
-| 🖥️ **[AtlasRV32](https://github.com/Hajjy22/AtlasRV-32-bit-RISC-V-Pipelined-Processor)** | 32-bit RISC-V, 5-stage pipeline, hazard detection & forwarding · Artix-7 FPGA |
-| 🧠 **CNN Accelerator** | 1024×1024 convolution @ 206 MHz · ASIC flow, 4.85 ns clock |
-| ⚡ **SPEF Profiler** | Low-power analysis tool built at Siemens EDA |
-| 🔌 **I2C Master IP** | Avalon interface, Nios II, 90%+ functional coverage |
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hajjy22&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Hajjy22&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-**Open to opportunities** · **Available for freelance work** · **Always learning**
-
-</div>
+Open to full-time roles and freelance RTL/embedded work.
