@@ -17,6 +17,8 @@ INPT graduate, previously at Siemens EDA.
 
 ### Working with
 
+<img src="images/waves.gif" width="430" alt="" />
+
 SystemVerilog, Verilog, VHDL, UVM, C, C++, Python
 Vivado, Quartus, STM32, ESP32, FreeRTOS, MQTT
 
