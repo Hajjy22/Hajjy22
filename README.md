@@ -1,12 +1,24 @@
 ## Hi, I'm Ismail 👋
 
+```
+        ┌──────────────────────────┐
+       ╱                          ╱│
+      ╱   ISMAIL HAJJY           ╱ │
+     ╱   embedded · rtl · iot   ╱  │
+    ┌──────────────────────────┐   │
+    │  ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪   │   │
+    │                          │  ╱
+    │  ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪   │ ╱
+    └──────────────────────────┘╱
+```
+
 Embedded systems and ASIC/FPGA engineer based in Rabat, Morocco. I work on
 digital hardware design and the firmware that runs on it.
 
-- Embedded Systems Engineering, INPT (2025)
-- Previously at Siemens EDA, working on low-power ASIC design
-- Winner, Orange Summer Challenge 2024
-- Currently building RISC-V cores and hardware accelerators
+* Embedded Systems Engineering, INPT (2025)
+* Previously at Siemens EDA, working on low-power ASIC design
+* Winner, Orange Summer Challenge 2024
+* Currently building RISC-V cores and hardware accelerators
 
 [LinkedIn](https://www.linkedin.com/in/ismail-hajjy) ·
 [Email](mailto:ismailhajjy02@gmail.com) ·
@@ -14,9 +26,9 @@ digital hardware design and the firmware that runs on it.
 
 ### Skills
 
-**Hardware** — SystemVerilog, Verilog, VHDL, UVM, Vivado, Quartus
-**Embedded** — C, C++, Python, STM32, ESP32, FreeRTOS
-**Protocols** — I2C, SPI, UART, AXI, Avalon, MQTT
+**Hardware:** SystemVerilog, Verilog, VHDL, UVM, Vivado, Quartus
+**Embedded:** C, C++, Python, STM32, ESP32, FreeRTOS
+**Protocols:** I2C, SPI, UART, AXI, Avalon, MQTT
 
 ### Projects
 
@@ -37,7 +49,5 @@ Avalon-mapped I2C controller for Nios II, verified to over 90% functional covera
 ### GitHub
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Hajjy22&show_icons=true&theme=tokyonight&hide_border=true" />
-
----
 
 Open to full-time roles and freelance RTL/embedded work.
